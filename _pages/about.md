@@ -34,6 +34,17 @@ My research focuses on visual localization, autonomous driving, SLAM, 3D reconst
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+<code class="language-plaintext highlighter-rouge">SPL 2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10705059">MVP: One-Shot Object Pose Estimation by Matching With Visible Points
+</a>, <strong>Wentao Cheng</strong>, Minxing Luo | <a href="https://github.com/wtchengcv/MVP"><strong>Code</strong>
+
+<code class="language-plaintext highlighter-rouge">CVPR 2024</code> <a href="https://zzcheng.top/assets/pdf/2024_CVPR_ExtDM.pdf">ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction
+</a>, Zhicheng Zhang, Junyao Hu, <strong>Wentao Cheng</strong>, Danda Paudel, Jufeng Yang | <a href="https://zzcheng.top/ExtDM"><strong>Project</strong>
+</a> | <a href="https://github.com/nku-zhichengzhang/ExtDM"><strong>Code</strong>
+
+<code class="language-plaintext highlighter-rouge">Arxiv</code> <a href="https://arxiv.org/pdf/2401.06442">RotationDrag: Point-based Image Editing with Rotated Diffusion Features
+</a>, Minxing Luo, <strong>Wentao Cheng</strong>, Jian Yang | <a href="https://github.com/Tony-Lowe/RotationDrag"><strong>Code</strong>
+</a>
+
 <code class="language-plaintext highlighter-rouge">ICRA 2021</code> <a href="https://arxiv.org/pdf/2108.05047.pdf">Road mapping and localization using sparse semantic visual features</a>, <strong>Wentao Cheng* </strong>, Sheng Yang*, Maomin Zhou, Ziyuan Liu, Yiming Chen, Mingyang Li
 
 <code class="language-plaintext highlighter-rouge">ICCV 2019</code> <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Cascaded_Parallel_Filtering_for_Memory-Efficient_Image-Based_Localization_ICCV_2019_paper.pdf">Cascaded parallel filtering for memory-efficient image-based localization</a>, <strong>Wentao Cheng</strong>, Weisi Lin, Kan Chen, Xinfeng Zhang
@@ -57,9 +68,9 @@ My research focuses on visual localization, autonomous driving, SLAM, 3D reconst
 
 
 # 📖 Educations
-- *2013 - 2019*, Joint-PhD, Nanyang Technological University, Singapore. 
-- *2013 - 2019*, Joint-PhD, Technische Universität Darmstadt, Germany. 
-- *2008 - 2012*, Undergraduate, Harbin Institute of Technology, China.
+- Joint-PhD, Nanyang Technological University, Singapore. 
+- Joint-PhD, Technische Universität Darmstadt, Germany. 
+- Undergraduate, Harbin Institute of Technology, China.
 
 
 

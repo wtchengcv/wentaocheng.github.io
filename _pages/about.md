@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am an Associate Professor in College of Computer Science, Nankai University. Prior to joining Nankai University, I was a senior algorithm engineer in Alibaba Group. I obtained my Ph.D. from Nanyang Technological University in 2019, under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year with a joint PhD program in Technische Universität Darmstadt, under the supervision of <a href='https://scholar.google.com/citations?user=56UhAooAAAAJ'>Prof. Michael Goesele</a>.
+I am an Associate Professor in College of Computer Science, Nankai University. Prior to joining Nankai University, I was a senior algorithm engineer in Alibaba Group. I obtained my Ph.D. from Nanyang Technological University, under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year with a joint PhD program in Technische Universität Darmstadt, under the supervision of <a href='https://scholar.google.com/citations?user=56UhAooAAAAJ'>Prof. Michael Goesele</a>.
 
 My research focuses on visual localization, autonomous driving, SLAM, 3D reconstruction, etc.
 

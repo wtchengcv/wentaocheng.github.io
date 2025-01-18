@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wentao Cheng"
-  avatar           : "images/me_3.jpeg"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  avatar           : "images/me.jpeg"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=c2oVlqUAAAAJ"
-  email            : "wentaocheng@nankai.edu.cn"
+  email            : "wentaocheng@uic.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -79,7 +79,7 @@ My research broadly focuses on **3D Vision** and **Generative AI**, with particu
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💼 Professional Service  
-- **Reviewer for Conferences**: CVPR 2024, ICCV 2023, ICRA 2023, ICIP 2021-2024, PRCV 2023, ICASSP 2021-2023.
+- **Reviewer for Conferences**: CVPR 2023-2025, ICCV 2023, ICRA 2023, ICIP 2021-2024, PRCV 2023, ICASSP 2021-2023.
 - **Reviewer for Journals**: IEEE Transaction on Robotics, IEEE Transaction on Image Processing, IEEE Transaction on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Signal Processing Letters, IEEE Robotics and Automation Letters, Journal of Visual Communication and Image Representation.
 
 # <i class="fas fa-book"></i> Teaching

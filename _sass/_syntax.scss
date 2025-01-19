@@ -34,7 +34,17 @@ div.highlighter-rouge, figure.highlight {
 }
 
 .highlighter-rouge{
-  background-color: #1f8d03;
+  background-color: #0702a5;
+  color: white;
+  margin-bottom: 0em;
+  padding: 0em;
+  font-size: $type-size-9;
+  border: 0px solid $border-color;
+  border-radius: 0;
+}
+
+.highlighter-temp{
+  background-color: #f06a03;
   color: white;
   margin-bottom: 0em;
   padding: 0em;

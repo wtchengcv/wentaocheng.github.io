@@ -23,7 +23,7 @@ redirect_from:
 I used to be an Associate Professor in College of Computer Science, Nankai University. Before that, I was a senior algorithm engineer and a senior product manager in Alibaba Group, where I mainly worked on a perception system for autonomous vehicles. 
 
 
-I earned my Ph.D. from Nanyang Technological University, working under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year via a joint PhD program in Technische Universität Darmstadt, under the supervision of <a href='https://scholar.google.com/citations?user=56UhAooAAAAJ'>Prof. Michael Goesele</a>. I hold a B.S. degree from Harbin Institute of Technology.
+I earned my Ph.D. from Nanyang Technological University, working under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year via a joint PhD program in Technische Universität Darmstadt, under the supervision of Dr. Michael Goesele. I hold a B.S. degree from Harbin Institute of Technology.
 
 My research broadly focuses on **3D Vision** and **Generative AI**, with particular interests in visual localization, novel view synthesis, visual text generation and video prediction. **I am recruiting PhD and Mphil students** who want to work on research topics such as image/video generation/editting, feature matching and gaussian splatting. If you are interested in joining my group, please email me with your CV to **wentaocheng(AT)uic.edu.cn.**
 
@@ -44,24 +44,31 @@ My research broadly focuses on **3D Vision** and **Generative AI**, with particu
 <code class="language-plaintext highlighter-rouge">Arxiv</code> <a href="https://arxiv.org/pdf/2501.05892">Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation</a>, Minxing Luo, Zixun Xia, Liaojun Chen, Zhenhang Li, Weichao Zeng, Jianye Wang, <strong>Wentao Cheng</strong>, Yaxing Wang, Yu Zhou, Jian Yang
 
 <code class="language-plaintext highlighter-rouge">SPL 2024</code> 
+<code class="language-plaintext highlighter-temp">CCF-C</code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10705059">MVP: One-Shot Object Pose Estimation by Matching With Visible Points</a>, <strong>Wentao Cheng</strong>, Minxing Luo | <a href="https://github.com/wtchengcv/MVP"><strong>Code</strong>
 
 <code class="language-plaintext highlighter-rouge">CVPR 2024</code> 
+<code class="language-plaintext highlighter-temp">CCF-A</code>
 <a href="https://zzcheng.top/assets/pdf/2024_CVPR_ExtDM.pdf">ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction</a>, Zhicheng Zhang, Junyao Hu, <strong>Wentao Cheng</strong>, Danda Paudel, Jufeng Yang | <a href="https://zzcheng.top/ExtDM"><strong>Project</strong></a> | <a href="https://github.com/nku-zhichengzhang/ExtDM"><strong>Code</strong>
 
 <code class="language-plaintext highlighter-rouge">Arxiv</code> <a href="https://arxiv.org/pdf/2401.06442">RotationDrag: Point-based Image Editing with Rotated Diffusion Features</a>, Minxing Luo, <strong>Wentao Cheng</strong>, Jian Yang | <a href="https://github.com/Tony-Lowe/RotationDrag"><strong>Code</strong>
 </a>
 
-<code class="language-plaintext highlighter-rouge">ICRA 2021</code> <a href="https://arxiv.org/pdf/2108.05047.pdf">Road mapping and localization using sparse semantic visual features</a>, <strong>Wentao Cheng* </strong>, Sheng Yang*, Maomin Zhou, Ziyuan Liu, Yiming Chen, Mingyang Li
+<code class="language-plaintext highlighter-rouge">ICRA 2021</code>
+<code class="language-plaintext highlighter-temp">CCF-B</code> <a href="https://arxiv.org/pdf/2108.05047.pdf">Road mapping and localization using sparse semantic visual features</a>, <strong>Wentao Cheng* </strong>, Sheng Yang*, Maomin Zhou, Ziyuan Liu, Yiming Chen, Mingyang Li
 
-<code class="language-plaintext highlighter-rouge">ICCV 2019</code> <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Cascaded_Parallel_Filtering_for_Memory-Efficient_Image-Based_Localization_ICCV_2019_paper.pdf">Cascaded parallel filtering for memory-efficient image-based localization</a>, <strong>Wentao Cheng</strong>, Weisi Lin, Kan Chen, Xinfeng Zhang
+<code class="language-plaintext highlighter-rouge">ICCV 2019</code>
+<code class="language-plaintext highlighter-temp">CCF-A</code> <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Cascaded_Parallel_Filtering_for_Memory-Efficient_Image-Based_Localization_ICCV_2019_paper.pdf">Cascaded parallel filtering for memory-efficient image-based localization</a>, <strong>Wentao Cheng</strong>, Weisi Lin, Kan Chen, Xinfeng Zhang
 
-<code class="language-plaintext highlighter-rouge">TIP  2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8704253/">A two-stage outlier filtering framework for city-scale localization using 3D SfM point clouds
+<code class="language-plaintext highlighter-rouge">TIP  2019</code>
+<code class="language-plaintext highlighter-temp">CCF-A</code> <a href="https://ieeexplore.ieee.org/abstract/document/8704253/">A two-stage outlier filtering framework for city-scale localization using 3D SfM point clouds
 </a>, <strong>Wentao Cheng</strong>, Kan Chen, Weisi Lin, Michael Goesele, Xinfeng Zhang, Yabin Zhang
 
-<code class="language-plaintext highlighter-rouge">TIP  2017</code> <a href="https://ieeexplore.ieee.org/abstract/document/8063430/">Multiple-level feature-based measure for retargeted image quality</a>, Yabin Zhang, Weisi Lin, Qiaohong Li, <strong>Wentao Cheng</strong>, Xinfeng Zhang
+<code class="language-plaintext highlighter-rouge">TIP  2017</code>
+<code class="language-plaintext highlighter-temp">CCF-A</code> <a href="https://ieeexplore.ieee.org/abstract/document/8063430/">Multiple-level feature-based measure for retargeted image quality</a>, Yabin Zhang, Weisi Lin, Qiaohong Li, <strong>Wentao Cheng</strong>, Xinfeng Zhang
 
-<code class="language-plaintext highlighter-rouge">TIP  2016</code> <a href="https://ieeexplore.ieee.org/abstract/document/7725940/">A data-driven point cloud simplification framework for city-scale image-based localization</a>, <strong>Wentao Cheng</strong>, Weisi Lin, Xinfeng Zhang, Michael Goesele, Ming-Ting Sun
+<code class="language-plaintext highlighter-rouge">TIP  2016</code>
+<code class="language-plaintext highlighter-temp">CCF-A</code> <a href="https://ieeexplore.ieee.org/abstract/document/7725940/">A data-driven point cloud simplification framework for city-scale image-based localization</a>, <strong>Wentao Cheng</strong>, Weisi Lin, Xinfeng Zhang, Michael Goesele, Ming-Ting Sun
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>

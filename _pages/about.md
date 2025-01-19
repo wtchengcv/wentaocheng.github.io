@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I will join <a href="https://www.uic.edu.cn/en/">**UIC**</a> as an Associate Professor in February 2025. I used to be an Associate Professor in College of Computer Science, Nankai University. Before that, I was a senior algorithm engineer and a senior product manager in Alibaba Group, where I mainly worked on a perception system for autonomous vehicles. 
+<!-- I will join <a href="https://www.uic.edu.cn/en/">**UIC**</a> as an Associate Professor in February 2025.  -->
+
+I used to be an Associate Professor in College of Computer Science, Nankai University. Before that, I was a senior algorithm engineer and a senior product manager in Alibaba Group, where I mainly worked on a perception system for autonomous vehicles. 
 
 
 I earned my Ph.D. from Nanyang Technological University, working under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year via a joint PhD program in Technische Universität Darmstadt, under the supervision of <a href='https://scholar.google.com/citations?user=56UhAooAAAAJ'>Prof. Michael Goesele</a>. I hold a B.S. degree from Harbin Institute of Technology.

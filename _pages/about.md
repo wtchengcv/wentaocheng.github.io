@@ -85,6 +85,8 @@ My research broadly focuses on **3D Vision** and **Generative AI**, with particu
 - **Reviewer for Journals**: IEEE Transaction on Robotics, IEEE Transaction on Image Processing, IEEE Transaction on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Signal Processing Letters, IEEE Robotics and Automation Letters, Journal of Visual Communication and Image Representation.
 
 # <i class="fas fa-book"></i> Teaching
+- Design and Analysis of Algorithms, 2025 Spring, UIC
+- Data Communications and Networking, 2025 Spring, UIC
 - Data Structures, 2024 Fall, Nankai University.
 
 

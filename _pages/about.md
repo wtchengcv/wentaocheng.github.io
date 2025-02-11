@@ -20,12 +20,14 @@ redirect_from:
 # 👨‍💻 About Me
 <!-- I will join <a href="https://www.uic.edu.cn/en/">**UIC**</a> as an Associate Professor in February 2025.  -->
 
+I am currently an associate professor in the <a href='https://fst.uic.edu.cn/ai_en/index.htm'>Department of Artificial Intelligence</a> at <a href='https://uic.edu.cn/en/'>BNU-HKBU United Internation College</a>
+
 I used to be an Associate Professor in College of Computer Science, Nankai University. Before that, I was a senior algorithm engineer and a senior product manager in Alibaba Group, where I mainly worked on a perception system for autonomous vehicles. 
 
 
 I earned my Ph.D. from Nanyang Technological University, working under the supervision of <a href='https://personal.ntu.edu.sg/wslin/'>Prof. Weisi Lin</a>. I also spent one wonderful year via a joint PhD program in Technische Universität Darmstadt, under the supervision of Dr. Michael Goesele. I hold a B.S. degree from Harbin Institute of Technology.
 
-My research broadly focuses on **3D Vision** and **Generative AI**, with particular interests in visual localization, novel view synthesis, visual text generation and video prediction. **I am recruiting PhD and Mphil students** who want to work on research topics such as image/video generation/editting, feature matching and gaussian splatting. If you are interested in joining my group, please email me with your CV to **wentaocheng(AT)uic.edu.cn.**
+My research broadly focuses on **3D Vision** and **Generative AI**, with particular interests in visual localization, novel view synthesis, visual text generation and video prediction. **<font color=blue>I am recruiting PhD and Mphil students and RAs</font>** who want to work on the above mentioned research topics. If you are interested in joining my group, please email your CV to wentaocheng(AT)uic.edu.cn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
